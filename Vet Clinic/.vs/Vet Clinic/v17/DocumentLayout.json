@@ -1,0 +1,310 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\vetclinic\\Vet Clinic\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C80365F3-143B-4C58-8C8A-8D60F40C968E}|Vet Clinic\\Vet Clinic.csproj|d:\\vetclinic\\vet clinic\\vet clinic\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C80365F3-143B-4C58-8C8A-8D60F40C968E}|Vet Clinic\\Vet Clinic.csproj|solutionrelative:vet clinic\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C80365F3-143B-4C58-8C8A-8D60F40C968E}|Vet Clinic\\Vet Clinic.csproj|D:\\vetclinic\\Vet Clinic\\vet clinic\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C80365F3-143B-4C58-8C8A-8D60F40C968E}|Vet Clinic\\Vet Clinic.csproj|solutionrelative:vet clinic\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C80365F3-143B-4C58-8C8A-8D60F40C968E}|Vet Clinic\\Vet Clinic.csproj|d:\\vetclinic\\vet clinic\\vet clinic\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C80365F3-143B-4C58-8C8A-8D60F40C968E}|Vet Clinic\\Vet Clinic.csproj|solutionrelative:vet clinic\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C80365F3-143B-4C58-8C8A-8D60F40C968E}|Vet Clinic\\Vet Clinic.csproj|d:\\vetclinic\\vet clinic\\vet clinic\\pets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C80365F3-143B-4C58-8C8A-8D60F40C968E}|Vet Clinic\\Vet Clinic.csproj|solutionrelative:vet clinic\\pets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C80365F3-143B-4C58-8C8A-8D60F40C968E}|Vet Clinic\\Vet Clinic.csproj|d:\\vetclinic\\vet clinic\\vet clinic\\medicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C80365F3-143B-4C58-8C8A-8D60F40C968E}|Vet Clinic\\Vet Clinic.csproj|solutionrelative:vet clinic\\medicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C80365F3-143B-4C58-8C8A-8D60F40C968E}|Vet Clinic\\Vet Clinic.csproj|d:\\vetclinic\\vet clinic\\vet clinic\\medication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C80365F3-143B-4C58-8C8A-8D60F40C968E}|Vet Clinic\\Vet Clinic.csproj|solutionrelative:vet clinic\\medication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C80365F3-143B-4C58-8C8A-8D60F40C968E}|Vet Clinic\\Vet Clinic.csproj|d:\\vetclinic\\vet clinic\\vet clinic\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C80365F3-143B-4C58-8C8A-8D60F40C968E}|Vet Clinic\\Vet Clinic.csproj|solutionrelative:vet clinic\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C80365F3-143B-4C58-8C8A-8D60F40C968E}|Vet Clinic\\Vet Clinic.csproj|d:\\vetclinic\\vet clinic\\vet clinic\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C80365F3-143B-4C58-8C8A-8D60F40C968E}|Vet Clinic\\Vet Clinic.csproj|solutionrelative:vet clinic\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C80365F3-143B-4C58-8C8A-8D60F40C968E}|Vet Clinic\\Vet Clinic.csproj|d:\\vetclinic\\vet clinic\\vet clinic\\owner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C80365F3-143B-4C58-8C8A-8D60F40C968E}|Vet Clinic\\Vet Clinic.csproj|solutionrelative:vet clinic\\owner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C80365F3-143B-4C58-8C8A-8D60F40C968E}|Vet Clinic\\Vet Clinic.csproj|d:\\vetclinic\\vet clinic\\vet clinic\\veterinarian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C80365F3-143B-4C58-8C8A-8D60F40C968E}|Vet Clinic\\Vet Clinic.csproj|solutionrelative:vet clinic\\veterinarian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C80365F3-143B-4C58-8C8A-8D60F40C968E}|Vet Clinic\\Vet Clinic.csproj|d:\\vetclinic\\vet clinic\\vet clinic\\appointment.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C80365F3-143B-4C58-8C8A-8D60F40C968E}|Vet Clinic\\Vet Clinic.csproj|solutionrelative:vet clinic\\appointment.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C80365F3-143B-4C58-8C8A-8D60F40C968E}|Vet Clinic\\Vet Clinic.csproj|D:\\vetclinic\\Vet Clinic\\vet clinic\\pets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C80365F3-143B-4C58-8C8A-8D60F40C968E}|Vet Clinic\\Vet Clinic.csproj|solutionrelative:vet clinic\\pets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C80365F3-143B-4C58-8C8A-8D60F40C968E}|Vet Clinic\\Vet Clinic.csproj|D:\\vetclinic\\Vet Clinic\\vet clinic\\owner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C80365F3-143B-4C58-8C8A-8D60F40C968E}|Vet Clinic\\Vet Clinic.csproj|solutionrelative:vet clinic\\owner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C80365F3-143B-4C58-8C8A-8D60F40C968E}|Vet Clinic\\Vet Clinic.csproj|D:\\vetclinic\\Vet Clinic\\vet clinic\\veterinarian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C80365F3-143B-4C58-8C8A-8D60F40C968E}|Vet Clinic\\Vet Clinic.csproj|solutionrelative:vet clinic\\veterinarian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C80365F3-143B-4C58-8C8A-8D60F40C968E}|Vet Clinic\\Vet Clinic.csproj|D:\\vetclinic\\Vet Clinic\\vet clinic\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C80365F3-143B-4C58-8C8A-8D60F40C968E}|Vet Clinic\\Vet Clinic.csproj|solutionrelative:vet clinic\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C80365F3-143B-4C58-8C8A-8D60F40C968E}|Vet Clinic\\Vet Clinic.csproj|d:\\vetclinic\\vet clinic\\vet clinic\\dashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C80365F3-143B-4C58-8C8A-8D60F40C968E}|Vet Clinic\\Vet Clinic.csproj|solutionrelative:vet clinic\\dashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C80365F3-143B-4C58-8C8A-8D60F40C968E}|Vet Clinic\\Vet Clinic.csproj|d:\\vetclinic\\vet clinic\\vet clinic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C80365F3-143B-4C58-8C8A-8D60F40C968E}|Vet Clinic\\Vet Clinic.csproj|solutionrelative:vet clinic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C80365F3-143B-4C58-8C8A-8D60F40C968E}|Vet Clinic\\Vet Clinic.csproj|d:\\vetclinic\\vet clinic\\vet clinic\\veterinarian.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C80365F3-143B-4C58-8C8A-8D60F40C968E}|Vet Clinic\\Vet Clinic.csproj|solutionrelative:vet clinic\\veterinarian.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "owner.cs",
+              "DocumentMoniker": "D:\\vetclinic\\Vet Clinic\\Vet Clinic\\owner.cs",
+              "RelativeDocumentMoniker": "Vet Clinic\\owner.cs",
+              "ToolTip": "D:\\vetclinic\\Vet Clinic\\Vet Clinic\\owner.cs",
+              "RelativeToolTip": "Vet Clinic\\owner.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T16:45:39.198Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "medication.cs",
+              "DocumentMoniker": "D:\\vetclinic\\Vet Clinic\\Vet Clinic\\medication.cs",
+              "RelativeDocumentMoniker": "Vet Clinic\\medication.cs",
+              "ToolTip": "D:\\vetclinic\\Vet Clinic\\Vet Clinic\\medication.cs",
+              "RelativeToolTip": "Vet Clinic\\medication.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBYAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T23:35:45.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appointment.cs",
+              "DocumentMoniker": "D:\\vetclinic\\Vet Clinic\\Vet Clinic\\appointment.cs",
+              "RelativeDocumentMoniker": "Vet Clinic\\appointment.cs",
+              "ToolTip": "D:\\vetclinic\\Vet Clinic\\Vet Clinic\\appointment.cs",
+              "RelativeToolTip": "Vet Clinic\\appointment.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAsAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T23:36:45.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "pets.cs",
+              "DocumentMoniker": "D:\\vetclinic\\Vet Clinic\\Vet Clinic\\pets.cs",
+              "RelativeDocumentMoniker": "Vet Clinic\\pets.cs",
+              "ToolTip": "D:\\vetclinic\\Vet Clinic\\Vet Clinic\\pets.cs",
+              "RelativeToolTip": "Vet Clinic\\pets.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T23:36:23.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dashboard.cs [Design]",
+              "DocumentMoniker": "D:\\vetclinic\\Vet Clinic\\Vet Clinic\\Dashboard.cs",
+              "RelativeDocumentMoniker": "Vet Clinic\\Dashboard.cs",
+              "ToolTip": "D:\\vetclinic\\Vet Clinic\\Vet Clinic\\Dashboard.cs [Design]",
+              "RelativeToolTip": "Vet Clinic\\Dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T00:45:48.882Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dashboard.cs",
+              "DocumentMoniker": "D:\\vetclinic\\Vet Clinic\\Vet Clinic\\Dashboard.cs",
+              "RelativeDocumentMoniker": "Vet Clinic\\Dashboard.cs",
+              "ToolTip": "D:\\vetclinic\\Vet Clinic\\Vet Clinic\\Dashboard.cs",
+              "RelativeToolTip": "Vet Clinic\\Dashboard.cs",
+              "ViewState": "AgIAAIIAAAAAAAAAAAAjwH8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T11:20:21.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MEDICINE.cs",
+              "DocumentMoniker": "D:\\vetclinic\\Vet Clinic\\Vet Clinic\\MEDICINE.cs",
+              "RelativeDocumentMoniker": "Vet Clinic\\MEDICINE.cs",
+              "ToolTip": "D:\\vetclinic\\Vet Clinic\\Vet Clinic\\MEDICINE.cs",
+              "RelativeToolTip": "Vet Clinic\\MEDICINE.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAYwBwAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T14:12:43.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\vetclinic\\Vet Clinic\\Vet Clinic\\Form1.cs",
+              "RelativeDocumentMoniker": "Vet Clinic\\Form1.cs",
+              "ToolTip": "D:\\vetclinic\\Vet Clinic\\Vet Clinic\\Form1.cs",
+              "RelativeToolTip": "Vet Clinic\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T11:31:38.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "login.cs",
+              "DocumentMoniker": "D:\\vetclinic\\Vet Clinic\\Vet Clinic\\login.cs",
+              "RelativeDocumentMoniker": "Vet Clinic\\login.cs",
+              "ToolTip": "D:\\vetclinic\\Vet Clinic\\Vet Clinic\\login.cs",
+              "RelativeToolTip": "Vet Clinic\\login.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T19:43:31.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appointment.Designer.cs",
+              "DocumentMoniker": "D:\\vetclinic\\Vet Clinic\\Vet Clinic\\appointment.Designer.cs",
+              "RelativeDocumentMoniker": "Vet Clinic\\appointment.Designer.cs",
+              "ToolTip": "D:\\vetclinic\\Vet Clinic\\Vet Clinic\\appointment.Designer.cs",
+              "RelativeToolTip": "Vet Clinic\\appointment.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T11:49:34.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Veterinarian.cs",
+              "DocumentMoniker": "D:\\vetclinic\\Vet Clinic\\Vet Clinic\\Veterinarian.cs",
+              "RelativeDocumentMoniker": "Vet Clinic\\Veterinarian.cs",
+              "ToolTip": "D:\\vetclinic\\Vet Clinic\\Vet Clinic\\Veterinarian.cs",
+              "RelativeToolTip": "Vet Clinic\\Veterinarian.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T23:35:55.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "pets.cs [Design]",
+              "DocumentMoniker": "D:\\vetclinic\\Vet Clinic\\Vet Clinic\\pets.cs",
+              "RelativeDocumentMoniker": "Vet Clinic\\pets.cs",
+              "ToolTip": "C:\\Users\\prof\\Desktop\\final\\Vet Clinic\\Vet Clinic\\pets.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T16:29:14.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "owner.cs [Design]",
+              "DocumentMoniker": "D:\\vetclinic\\Vet Clinic\\Vet Clinic\\owner.cs",
+              "RelativeDocumentMoniker": "Vet Clinic\\owner.cs",
+              "ToolTip": "C:\\Users\\prof\\Desktop\\final\\Vet Clinic\\Vet Clinic\\owner.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T16:45:35.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Veterinarian.cs [Design]",
+              "DocumentMoniker": "D:\\vetclinic\\Vet Clinic\\Vet Clinic\\Veterinarian.cs",
+              "RelativeDocumentMoniker": "Vet Clinic\\Veterinarian.cs",
+              "ToolTip": "C:\\Users\\prof\\Desktop\\final\\Vet Clinic\\Vet Clinic\\Veterinarian.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T23:32:03.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\vetclinic\\Vet Clinic\\Vet Clinic\\Form1.cs",
+              "RelativeDocumentMoniker": "Vet Clinic\\Form1.cs",
+              "ToolTip": "C:\\Users\\prof\\Desktop\\final\\Vet Clinic\\Vet Clinic\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T11:31:36.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Dashboard.Designer.cs",
+              "DocumentMoniker": "D:\\vetclinic\\Vet Clinic\\Vet Clinic\\Dashboard.Designer.cs",
+              "RelativeDocumentMoniker": "Vet Clinic\\Dashboard.Designer.cs",
+              "ToolTip": "D:\\vetclinic\\Vet Clinic\\Vet Clinic\\Dashboard.Designer.cs",
+              "RelativeToolTip": "Vet Clinic\\Dashboard.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T11:33:38.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\vetclinic\\Vet Clinic\\Vet Clinic\\Program.cs",
+              "RelativeDocumentMoniker": "Vet Clinic\\Program.cs",
+              "ToolTip": "D:\\vetclinic\\Vet Clinic\\Vet Clinic\\Program.cs",
+              "RelativeToolTip": "Vet Clinic\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T11:59:55.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Veterinarian.Designer.cs",
+              "DocumentMoniker": "D:\\vetclinic\\Vet Clinic\\Vet Clinic\\Veterinarian.Designer.cs",
+              "RelativeDocumentMoniker": "Vet Clinic\\Veterinarian.Designer.cs",
+              "ToolTip": "D:\\vetclinic\\Vet Clinic\\Vet Clinic\\Veterinarian.Designer.cs",
+              "RelativeToolTip": "Vet Clinic\\Veterinarian.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T23:46:50.565Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
